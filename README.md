@@ -11,8 +11,6 @@ Check out the live app here: [To-Do List App](https://gaurav110601.github.io/tod
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
-- Persistent storage using `localStorage` (if implemented)
-- Responsive design (if applicable)
 
 ## Usage
 
